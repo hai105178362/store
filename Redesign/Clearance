@@ -1,0 +1,4229 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+    <!-- category_template.vm-->
+    <head>
+        
+<style>.async-hide { opacity: 0 !important} </style>
+<script>
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);
+})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-TWS9KX':true,});
+</script>
+
+    <base href="https://shop.googlemerchandisestore.com/"/>
+
+<link rel="icon" type="image/x-icon" href="https://shop.googlemerchandisestore.com/store/20160512512/assets/themes/theme1_en/favicon.ico">
+
+<script type = "text/javascript" >
+function trackInteractionEvent (link, category, action, label) {
+ try {
+dataLayer.push({
+    'event': category,
+      'eventAction': action,
+    'eventLabel': label
+     });
+        setTimeout('document.location = "' + link + '"', 100);
+    } catch (err) {}
+}
+</script>        
+        
+
+
+
+                        
+                        
+
+
+
+
+
+
+                        
+
+
+
+
+
+
+
+
+    <script>
+    
+        var validParams = true;
+    
+        var urlParams = new URLSearchParams(window.location.search);
+    
+        for(var key of urlParams.keys()) {
+          if(key != 'tpt' && key != 'vid' && key != 'cid' && key != 'sortci' && key != 'Brand' && key != 'Subcategory' && key != 'Campus_Location' && key != 'Item_Type' && key != 'utm_content' && key != 'utm_campaign' && key != 'utm_medium' && key != 'utm_source') {
+            validParams = false;
+          }
+        }
+        
+        if(!validParams) {
+                                                window.location.href = "https://shop.googlemerchandisestore.com/";
+                                    }
+        
+    </script>
+
+
+
+            
+                    <link rel="next" href="store.html?cid=48998&vid=20160512512&tpt=theme1_en&mpv=childItemsDTO&mpvp=2" />
+            
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="description" content=" Shop our vast selection of official Google, YouTube, and Android branded clearance items. " />
+                <meta http-equiv="Cache-control" content="no-transform"/>
+        <title>Sale | Google Merchandise Store</title>
+        
+        <link rel="canonical" href="https://shop.googlemerchandisestore.com/Google+Redesign/Clearance" />
+    
+        
+
+<!-- start common_css.vm -->
+        
+
+            
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/lineItemAdd.css?v=2309"  />
+    <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/f-popup.css?v=2309"  />
+    <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/assets/plugins/yahooUI/build/container/assets/container.css?v=2309" />
+            <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/ie6.css?v=2309"/>
+    <![endif]-->
+    <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/ie7.css?v=2309"/>
+    <![endif]-->
+    
+    <!-- Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?v=2309">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/bootstrap.min.css?v=2309" rel="stylesheet">
+
+    <!-- Material Design Bootstrap -->
+    <link href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/mdb.css?v=2309" rel="stylesheet">
+
+    <!-- Custom css -->
+    <link href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/fullpond.css?v=2309" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/googlesansfonts.css?v=2309"  />
+    
+    <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/global.css?v=2309"  />
+    
+<!-- End common_css.vm -->        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/slider.css?v=2309" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/quicklook/jquery.ui.dialog.css?v=2309" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/css/quicklook/jquery.ui.tabs.css?v=2309" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/assets/commercelib/deliveryoption/deliveryoption.css?v=2309" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/assets/commercelib/showimage/showimage.css?v=2309" />
+        <link rel="stylesheet" type="text/css" media="all" href="https://gcontent.robertsonmarketing.com/assets/commercelib/commerce/commerce_shop.css?v=2309"/>
+    
+        
+
+
+
+
+<!-- start common_js.vm -->
+        
+
+
+                
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js?v=2309"></script>
+            
+    <script src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/home/aug19/core.min.js"></script>
+    
+    <script src= "https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js?v=2309"></script>
+        
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/jqtouch.min.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/lineItemAdd/lineItemAdd.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/lineItemAdd/lineItemAdd_event.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/acmobile.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/css3-mediaqueries.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/mobile-detect.min.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/angularNav.js?v=2309"></script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/brackets.js?v=2309"></script>
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/custom-mdb.js?v=2309"></script>
+
+    
+        <script type="text/javascript" nonce="$CSPNonce">
+        var
+            vendorIdentifier = '20160512512',
+            skinname    = 'theme1_en',
+            categoryId  = "48998";
+
+        var userWelcome = {
+            'welcome': 'Welcome',
+            'welcome2': '<b>Welcome.</b> Please ',
+            'logout'  : 'Logout',
+            'logout_link': 'https://shop.googlemerchandisestore.com/./signout.html?vid=20160512512',
+            'login' : 'Login',
+            'login_link': 'https://shop.googlemerchandisestore.com/./signin.html?vid=20160512512&mt=1&loginway=header',
+            'account_html': '<img src="store/20160512512/assets/themes/theme1_en/images/icons/myaccount.gif" alt="My Account"/>&nbsp;<a href="myaccount.html?mode=billingaddress&vid=20160512512">My Account</a>',
+            'account_link': 'myaccount.html?mode=billingaddress&vid=20160512512'
+        };
+    </script>
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/getajax.js?v=2309"></script>
+    
+    <script type="text/javascript" nonce="$CSPNonce">
+
+        function checkKey() {
+            var
+                keyword = document.getElementById('keyword'),
+                key     = document.getElementById('key');
+
+            keyword.value = key.value;
+            if (keyword.value.length == 0){
+                //keyword.value = 20160512512;
+            }
+        }
+
+        function changeItemView() {
+            var listing = jQuery('.listing');
+
+            listing.toggleClass(function() {
+                if (listing.hasClass('list')) {
+                    createCookie('grid');
+                    listing.removeClass('list');
+                    return 'grid';
+                } else if (listing.hasClass('grid')) {
+                    createCookie('list');
+                    listing.removeClass('grid');
+                    return 'list';
+                }
+            });
+
+            jQuery(".view-switch a").toggleClass("selected")
+        }
+
+
+    </script>
+
+    <script type="text/javascript" nonce="$CSPNonce">
+        iPadfn = {};
+        iPadfn.status = false;
+
+        iPadfn.addOverlay = function(obj,who) {
+            jQuery(who).css('z-index', '1000');
+            jQuery(obj).append('<div id="ipad_overlay"></div>');
+            jQuery('#ipad_overlay').css({
+                'position': 'absolute',
+                'height'  : jQuery(who).css('height'),
+                'width'   : jQuery(who).css('width'),
+                'display' : 'block',
+                'z-index' : '999'
+            });
+        }
+
+        iPadfn.removeOverlay = function() {
+            jQuery('#ipad_overlay').remove();
+        }
+
+        iPadfn.openMenu = function(obj,menu) {
+            jQuery(menu).slideDown('slow', function() {
+                iPadfn.addOverlay(obj, menu);
+            });
+        }
+
+        iPadfn.closeMenu = function(menu) {
+            jQuery(menu).slideUp('slow', function() {
+                iPadfn.removeOverlay();
+            });
+        }
+
+        jQuery(document).ready(function() {
+            jQuery('.sideNavToggle a').bind('touchstart', function() {
+                window.location = jQuery(this).attr('href');
+            });
+
+            jQuery('.searchByCategory').bind('touchstart', function() {
+                if (iPadfn.status == false) {
+                    iPadfn.openMenu(this, '.sideNavToggle');
+                    iPadfn.status = true;
+                } else {
+                    iPadfn.closeMenu('.sideNavToggle');
+                    iPadfn.status = false;
+                }
+            });
+            
+            linkProducts();
+            
+                    });
+        
+        function linkProducts(){
+            //create namespace for these links, so only one is bound at anytime.
+            jQuery(".item").off("click.productLink").on("click.productLink", function(event){
+                if (!jQuery(event.target).is("button")){
+                
+                    var item = jQuery(this);
+                    
+                    //attempt to find a link to use with the following priority:
+                    // 1. the first link with an id starting with "parent-title"
+                    // 2. the first link inside an element with the class "itemTitle"
+                    // 3. the first link inside an element with the class "preorderTitle"
+                    // 4. the first link
+                    var url = item.find("a[id^='parent-title']").first().attr("href")
+                        || item.find(".itemTitle a").first().attr("href")
+                        || item.find(".preorderTitle a").first().attr("href")
+                        || item.find("a").first().attr("href");
+                          
+                    window.location = url;
+                }
+            });
+        }
+
+        /*
+            jQuery(document).ready(function(){
+                if(jQuery('body').attr('id') == 'item'){
+                    jQuery('#search_categories').hover(
+                        function(){
+                            var obj = jQuery(this).parent().find('ul:eq(0)');
+                            obj.show();
+                        },
+                        function(){
+                            var obj = jQuery(this).parent().find('ul:eq(0)');
+                            obj.hide();
+                        }
+                    );
+                }
+            });
+        */
+    </script>
+
+    <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/responsive.js?v=2309"></script>
+    <!-- End common_js.vm -->                <script type="text/javascript" src="store/20160512512/assets/themes/theme1_en/js/angularInfiniteScroll.js?v=2309"></script>
+    
+                
+        <script nonce="$CSPNonce">
+            var urlParam = window.location.search.substring(1);
+            var params = urlParam.split("&");
+            var infScrollParams = "";
+            
+            for(i=0; i< params.length; i++) {
+                if(params[i].substring(0, 3) != "vid" && params[i].substring(0, 3) != "tpt" && params[i].substring(0, 3) != "cid") {
+                    infScrollParams = infScrollParams + "&" + params[i];
+                }
+                
+            }
+        </script>
+        
+        <script type="text/javascript" nonce="$CSPNonce">
+					
+					jQuery(document).ready(function() {
+                        var menuList = new Array();
+                                                						/*jQuery(window).touchwipe({
+							wipeLeft: function() {
+							    var nextUrl = "";
+							    for(var i=0;i<menuList.length;i++){
+							       if(menuList[i].cid==48998){
+								      if(menuList[i].index==menuList.length){
+								          nextUrl = menuList[0].url;
+								      }else{
+								          nextUrl = menuList[i+1].url;
+								      }
+								   }
+							    }
+							    if (nextUrl < 1){
+    							    for(var i=0;i<menuList.length;i++){
+    							       if(menuList[i].cid==0){
+    								      if(menuList[i].index==menuList.length){
+    								          nextUrl = menuList[0].url;
+    								      }else{
+    								          nextUrl = menuList[i+1].url;
+    								      }
+    								   }
+    							    }
+    							}
+								//alert('wipe left '+ nextUrl + " parent id is:" +0);
+								window.location=nextUrl;
+								
+							},
+							wipeRight: function() {
+								
+								var preUrl = "";
+							    for(var i=0;i<menuList.length;i++){
+							       if(menuList[i].cid==48998){
+								      if(menuList[i].index==1){
+								          preUrl = menuList[menuList.length-1].url;
+								      }else{
+								          preUrl = menuList[i-1].url;
+								      }
+								   }
+							    }
+							    if (preUrl.length < 1){
+    							    for(var i=0;i<menuList.length;i++){
+    							       if(menuList[i].cid==0){
+    								      if(menuList[i].index==1){
+    								          preUrl = menuList[menuList.length-1].url;
+    								      }else{
+    								          preUrl = menuList[i-1].url;
+    								      }
+    								   }
+    							    }
+    							}
+								//alert('wipe right'+ preUrl+ " parent id is:" +0);
+								window.location=preUrl;
+								
+							},
+							min_move_x: 100,
+                            min_move_y: 100,
+							preventDefaultEvents: false
+						});	*/
+						
+						
+          });
+          
+          var attCount = 0;
+					
+				</script>
+				
+				<script nonce="$CSPNonce">
+				    var scrollBaseLink = "https://shop.googlemerchandisestore.com/";
+				    var scrollCatid = "48998";
+				    var scrollCatName = "Sale";
+				    var scrollThemeid = "4532";
+				    var scrollVendorid = "20160512512";
+				    
+				    var itemsPerPage = 12;//Use this to change the number of items per page... It is recommended that you use a number that is a multiple of both four, and six
+				    var maxNumOfScroll = -1;//Use this to limit the number of times additional items will be loaded when the user scrolls to the bottom... Use -1 to disable the limit
+				</script>
+				
+				                <script nonce="$CSPNonce">var paginationPageNum = parseInt("11");</script>
+        <style type="text/css">
+            .confirmPopupTop a:hover{
+                color:#fff !important;        
+            }
+
+            .confirmPopup {
+                position: fixed;
+                top: 50%;
+                left: 50%;
+                -webkit-transform: translate(-50%,-50%);
+                -moz-transform: translate(-50%,-50%);
+                -ms-transform: translate(-50%,-50%);
+                -khtml-transform: translate(-50%,-50%);
+                -o-transform: translate(-50%,-50%);
+                background-color: #fff;
+                border:1px solid #ccc;
+                border-radius: 5px;
+                min-width: 350px;
+                z-index: 500;
+            }
+
+            .confirmPopupTop{
+              background-color: #ccc;
+              padding: 10px;
+            }
+            
+            #confirmPopupTitle {
+                font-size: 14px;
+                text-transform: uppercase;
+                text-align: center;
+                width: 100%;
+                font-weight: bold;
+                margin-bottom: 0px;
+            }
+            .confirmPopupFoot .btn{
+            	padding:8px !important;
+            	ont-size:10px !important;
+            }
+            
+            .confirmPopupBody {
+              padding: 15px;
+            }
+            
+        </style>
+        
+        <script type="text/javascript" nonce="$CSPNonce">
+            function updateTopQtyBasketLines(elem){
+		       update_top_basket();
+			   var title = elem.currentSkuBO.item.domain.title; 
+				showConfirmPopup("<strong>"+title+"</strong> was added to your shopping cart.", "Added to Cart", "Go to Shopping Cart");
+		    }        
+
+        	function showConfirmPopup(bodyText, titleText, buttonText) {
+        		jQuery('#confirmBodyText').html(bodyText);
+        		jQuery('#confirmPopupTitle').html(titleText);
+        		jQuery('#confirmPopupBasketLink').html(buttonText);
+        		jQuery("#confirmPopupBasketLink").attr("href", "basket.html?vid=20160512512");
+        		jQuery('.confirmPopupBack').removeClass('hide');
+        	}
+        	
+        	function closeConfirmPopup() {
+        		jQuery('.confirmPopupBack').addClass('hide');
+        	}
+        </script>
+    </head>
+    <body id="category" class="ac-skin" ng-app="infinitescroll">
+                <input type="hidden" id="js-stayaftadd2crt" value="true" />
+    	    			
+                                
+                
+                
+                                                                                                                                                                                                                                                                                                                                                                                    
+        Sale
+        
+                
+        <script nonce="$CSPNonce">
+            var GAList = 'Google Tee Green, Google Tee Yellow, YouTube Women\'s Favorite Tee White';
+            var GACat = 'Home/Sale/';
+            var GACount = 12;
+
+          dataLayer = (dataLayer || []);
+            dataLayer.push.apply(dataLayer, [{
+            'event': 'view_item_list',
+            'ecommerce': {
+                'items': [
+                
+                                
+                 {
+                   'item_name': 'Google Tee Green',
+                   'item_id': 'GGOEGXXX0906',
+                   'price': '22.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 1,
+                   'name': 'Google Tee Green',
+                   'id': 'GGOEGXXX0906',
+                   'category': 'Home/Sale/',
+                   'position': '1',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Google Tee Yellow',
+                   'item_id': 'GGOEGXXX0905',
+                   'price': '22.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 2,
+                   'name': 'Google Tee Yellow',
+                   'id': 'GGOEGXXX0905',
+                   'category': 'Home/Sale/',
+                   'position': '2',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'YouTube Women\'s Favorite Tee White',
+                   'item_id': 'GGOEGXXX0919',
+                   'price': '22.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 3,
+                   'name': 'YouTube Women\'s Favorite Tee White',
+                   'id': 'GGOEGXXX0919',
+                   'category': 'Home/Sale/',
+                   'position': '3',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android Techie 3D Framed Art',
+                   'item_id': 'GGOEAFBA115499',
+                   'price': '40.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 4,
+                   'name': 'Android Techie 3D Framed Art',
+                   'id': 'GGOEAFBA115499',
+                   'category': 'Home/Sale/',
+                   'position': '4',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android Super Hero 3D Framed Art',
+                   'item_id': 'GGOEAFBA115599',
+                   'price': '40.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 5,
+                   'name': 'Android Super Hero 3D Framed Art',
+                   'id': 'GGOEAFBA115599',
+                   'category': 'Home/Sale/',
+                   'position': '5',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android Large Trace Journal Black',
+                   'item_id': 'GGOEAOCB092799',
+                   'price': '16.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 6,
+                   'name': 'Android Large Trace Journal Black',
+                   'id': 'GGOEAOCB092799',
+                   'category': 'Home/Sale/',
+                   'position': '6',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android Small Trace Journal Black',
+                   'item_id': 'GGOEAOCB092899',
+                   'price': '13.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 7,
+                   'name': 'Android Small Trace Journal Black',
+                   'id': 'GGOEAOCB092899',
+                   'category': 'Home/Sale/',
+                   'position': '7',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Google Small Standard Journal Navy',
+                   'item_id': 'GGOEGOCL092999',
+                   'price': '13.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 8,
+                   'name': 'Google Small Standard Journal Navy',
+                   'id': 'GGOEGOCL092999',
+                   'category': 'Home/Sale/',
+                   'position': '8',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android SM S/F18 Sticker Sheet',
+                   'item_id': 'GGOEACBA104599',
+                   'price': '3.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 9,
+                   'name': 'Android SM S/F18 Sticker Sheet',
+                   'id': 'GGOEACBA104599',
+                   'category': 'Home/Sale/',
+                   'position': '9',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Candy Cane Android Cardboard Sculpture',
+                   'item_id': 'GGOEAFBA115299',
+                   'price': '20.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 10,
+                   'name': 'Candy Cane Android Cardboard Sculpture',
+                   'id': 'GGOEAFBA115299',
+                   'category': 'Home/Sale/',
+                   'position': '10',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Android Large Removable Sticker Sheet',
+                   'item_id': 'GGOEAFKA087599',
+                   'price': '3.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 11,
+                   'name': 'Android Large Removable Sticker Sheet',
+                   'id': 'GGOEAFKA087599',
+                   'category': 'Home/Sale/',
+                   'position': '11',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                 
+                 {
+                   'item_name': 'Google Women\'s Striped L/S',
+                   'item_id': 'GGOEGXXX1181',
+                   'price': '29.00',
+                   'item_category': 'Home/Sale/',
+                   'index': 12,
+                   'name': 'Google Women\'s Striped L/S',
+                   'id': 'GGOEGXXX1181',
+                   'category': 'Home/Sale/',
+                   'position': '12',
+                   'item_list_name' : 'Sale',
+                   'G-JPEV636QX5' : 'category'
+                 },
+                 
+                                  
+                 ]
+              }
+          }]);
+        </script>
+            
+
+
+
+
+<!-- Google Tag Manager -->
+<script nonce='$CSPNonce'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');
+n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-CGSQ');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta name="viewport" content="width=device-width">
+
+  <meta name="google-signin-scope" content="profile email">
+  <meta name="google-signin-client_id" content="455819143746-r9num0dj4eb66bi87vin6n0a30os8tmi.apps.googleusercontent.com">
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <span style="display:none"><div class="g-signin2" data-onsuccess="onAutoSignIn" data-theme="dark"></div></span>
+    <script nonce="$CSPNonce">
+    
+      function onAutoSignIn(googleUser) {
+        // Useful data for your client-side scripts:
+        var profile = googleUser.getBasicProfile();
+        // The ID token you need to pass to your backend:
+        var id_token = googleUser.getAuthResponse().id_token;
+        console.log("ID Token: get successfully");
+        if(jQuery(location).attr('hash') == '#autologin' && jQuery(location).attr('pathname').indexOf('identifydiscount.html') == -1){
+        
+        jQuery.ajax({
+            type: 'POST',
+            url: "ssoautologin.ajx",
+            dataType: 'json',
+            cache: false,
+            data: "vid=20160512512&gtoken=" + id_token + "&discount_eligible=",
+            success: function (data) {
+                if(data.status){
+                  if(data.target){
+                    window.location=data.target;
+                  }else{
+                    updateLoginArea();
+                    if(location.href.indexOf("basket.html") > -1){
+                      window.location="basket.html?vid=20160512512";
+                    }
+                  }
+                  
+                }else{
+                  alert("fail to auto login " + data.msg);
+                }
+                
+            },
+            error: function (data) {
+                alert("auto login error "+data);
+            }
+        });
+        
+        }
+        
+      };
+    </script>
+    
+<style>
+    *{
+    outline: none;
+}
+input[type="reset"]:focus{
+    outline: none;   
+}
+:focus {
+outline: 0;
+}
+a { outline: none; }
+textarea:focus, input:focus{
+    outline: none;
+}
+</style>
+
+    <script type="text/javascript" nonce="$CSPNonce">
+    
+    if(jQuery(location).attr('hash') == '#autologin' && jQuery(location).attr('pathname').indexOf('identifydiscount.html') == -1) {
+      var checkExist = setInterval(function() {
+                           if(jQuery(".abcRioButtonContentWrapper").length) {
+                                jQuery(".abcRioButtonContentWrapper").click();
+                                clearInterval(checkExist);
+                            }
+                        }, 200);
+    }
+    
+    </script>
+
+<div class="scrollHead">
+
+    
+    
+
+		
+	
+		
+			
+
+				
+				
+				
+				
+			
+			
+
+			
+						
+				
+		
+		
+		
+		
+		
+	
+		</div>
+
+<input type="hidden" id="js-vid" value="20160512512"/>
+
+
+
+
+<!-- Sidebar navigation -->
+        <ul id="slide-out" class="side-nav fixed personal-side-nav custom-side-nav toggled" style="display:none">
+        <!-- Logo -->
+                            <div class="logo-wrapper">
+                    
+                        <a href="."><div class="avatar-wrapper">
+                        </div></a>
+                        
+                                                <div id="name-data" class="logged-in hide" style="position: relative;
+top: 8px;"></div>
+                        <hr class="logged-in hide" />
+                    
+                </div>
+                        <!--/. Logo -->
+    
+            <!--About-->
+            <div class="about hide">
+    
+            </div>
+            <!--/.About-->
+    
+            <!--Social-->
+                                                                    <!--/.Social-->
+        
+
+        <br />
+
+        <!-- Side navigation Category links -->
+        <ul class="collapsible collapsible-accordion visible-xs visible-sm visible-md">
+            <li>
+             <a href="Google+Redesign/New?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light navCollapseTitle">New</a>
+            </li>
+            
+            <li>
+            <a href="#" onclick="event.preventDefault();" class="collapsible-header navPlus"><i class="material-icons">expand_more</i></a> <a href="Google+Redesign/Apparel?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light navCollapseTitle">Apparel</a>
+                <div class="collapsible-body">
+                    <ul>
+                        <li><a href="Google+Redesign/Apparel/Hats" class="waves-effect waves-light">Headgear</a></li>
+                        <li><a href="Google+Redesign/Apparel/Kids?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light">Kids</a></li>
+                        <li><a href="Google+Redesign/Apparel/Mens?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light">Mens/Unisex</a></li>
+                        <li><a href="Google+Redesign/Apparel/Socks" class="waves-effect waves-light">Socks</a></li>
+                        <li><a href="Google+Redesign/Apparel/Womens" class="waves-effect waves-light">Womens</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+            <a href="#" onclick="event.preventDefault();" class="collapsible-header navPlus"><i class="material-icons">expand_more</i></a> <a href="Google+Redesign/Lifestyle?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light navCollapseTitle">Lifestyle</a>
+                <div class="collapsible-body">
+                    <ul>
+                        <li><a href="Google+Redesign/Lifestyle/Bags" class="waves-effect waves-light">Bags</a></li>
+                        <li><a href="Google+Redesign/Lifestyle/Drinkware" class="waves-effect waves-light">Drinkware</a></li>
+                        <li><a href="Google+Redesign/Lifestyle/Small+Goods" class="waves-effect waves-light">Small Goods</a></li>
+                                            </ul>
+                </div>
+            </li>
+            <li>
+            <a href="#" onclick="event.preventDefault();" class="collapsible-header navPlus"><i class="material-icons">expand_more</i></a> <a href="Google+Redesign/Stationery?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light navCollapseTitle">Stationery</a>
+                <div class="collapsible-body">
+                    <ul>
+                                                <li><a href="Google+Redesign/Stationery/Notebooks?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light">Notebooks</a></li>
+                        <li><a href="Google+Redesign/Stationery/Stickers?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light">Stickers</a></li>
+                        <li><a href="Google+Redesign/Stationery/Writing" class="waves-effect waves-light">Writing</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="Google+Redesign/eco+friendly?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">Eco-Friendly</a></li>
+                         
+                            
+                        
+                        
+                                    
+            <li>
+            <a href="#" onclick="event.preventDefault();" class="collapsible-header navPlus"><i class="material-icons">expand_more</i></a> <a href="Google+Redesign/Shop+by+Brand" class="waves-effect waves-light navCollapseTitle">Shop by Brand</a>
+                <div class="collapsible-body">
+                    <ul>
+                                                <li><a href="Google+Redesign/Shop+by+Brand/Android?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light">Android</a>
+                        </li>
+                        <li><a href="Google+Redesign/Shop+by+Brand/Google+Chrome+Dino?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">Chrome Dino</a>
+                        </li>
+                        <li><a href="Google+Redesign/Shop+by+Brand/Google?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">Google</a>
+                        </li>
+                        <li><a href="Google+Redesign/Shop+by+Brand/Google+Cloud?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">Google Cloud</a>
+                        </li>
+                                                <li><a href="Google+Redesign/Shop+by+Brand/YouTube?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">YouTube</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </li>
+            
+            
+                            
+                        <li>
+             <a href="Google+Redesign/Clearance" class="waves-effect waves-light navCollapseTitle" style="color:red;">Sale</a>
+                
+            </li>
+            <li><a href="Google+Redesign/Campus+Collection" class="waves-effect waves-light">Campus Collection</a></li>
+                    </ul>
+        <!--/. Side navigation Cateogry links -->
+
+        <!-- User Account Menu -->
+        
+        <ul class="collapsible collapsible-accordion">
+            <hr class="visible-xs" />
+            <!-- If Logged in -->
+            <li><a href="myaccount.html?mode=billingaddress&vid=20160512512" class="collapsible-header waves-effect waves-light logged-in hide">My Account</a>
+            </li>
+            <li><a href="wishlist.html?vid=20160512512" class="collapsible-header waves-effect waves-light logged-in hide">My Wishlist</a>
+            
+            <!-- /If logged in -->
+            <li><a class="collapsible-header waves-effect waves-light logged-out" href="https://shop.googlemerchandisestore.com/./signin.html?vid=20160512512&mt=1&loginway=header">Login</a>
+            </li>
+            <li id="welcome-data">
+            
+            </li>
+            <li><a class="collapsible-header waves-effect waves-light logged-out" href="https://shop.googlemerchandisestore.com/./signin.html?vid=20160512512&mt=1&loginway=header&mode=signup">Sign Up</a>
+            </li>
+                                    <li><a href="store-policies/frequently-asked-questions/" class="collapsible-header waves-effect waves-light">Help</a>
+            </li>
+        </ul>
+        <!--/ User Account Menu -->
+    </ul>
+    <!--/. Sidebar navigation -->
+
+
+    <header>
+    
+    <div id="popupMessage" class="warning-color-dark hidden">
+        <p class="pull-right">
+            <a href="#" onclick="event.preventDefault();closePopupMessage();"><i class="material-icons">clear</i></a>
+        </p>
+        <p>If you were not automatically logged in, please ensure that your popup blocker is disabled and then refresh the page to try again.</p>
+    </div>
+    
+        <!--Navigation-->
+        <nav class="double-navbar navbar navbar-fixed-top white lighten-4" role="navigation">
+            <div id="nav-container">
+                <div class="navbar-row-1 hidden-xs container-fluid white lighten-4">
+                    <div class="navbar-header container-navbar-menu-button pull-left">
+                        <!-- SideNav slide-out button -->
+                                               <a href="#slide-out" data-activates="slide-out" data-toggle="collapse" class="navbar-brand button-collapse slide-out-button" ><i class="material-icons">menu</i></a>
+                        <!--/. SideNav slide-out button -->
+                    </div>
+                    <div class="navbar-header">
+                        <a href="."><img src="store/20160512512/assets/themes/theme1_en/images/logo2.png" />
+                        </a>
+                    </div>
+                    <div class="navbar-header pull-right right-container">
+                        <div class="navbar-form navbar-right">
+                            <div class="form-group waves-effect waves-light">
+                                                                <strong><a href="javascript:void(0)" onclick="jQuery('#searchPopupBack').removeClass('hidden');"><i class="material-icons">search</i></a></strong>
+                                                            </div>
+                            <a href="basket.html?vid=20160512512"><span class="cartBadge badge red pull-right" id="basket-amount">0</span><i class="material-icons pull-right shopping-cart">shopping_cart</i></a>
+                                                </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="navbar-row-2 navbar-header hidden-xs col-xs-12 container-fluid white">
+                    <div class="container-navbar-menu-button pull-left" style="display: none">
+                        <!-- SideNav slide-out button -->
+                        <a href="Google+Redesign/Wearables/Men+s+T-Shirts" data-activates="slide-out" class="navbar-brand button-collapse slide-out-button"><i class="material-icons">menu</i></a>
+                        <!--/. SideNav slide-out button -->
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav hidden-md hidden-sm">
+                            <li><a href="Google+Redesign/New?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light" role="button" aria-expanded="false">New </a>
+                            </li>
+                            
+                             <li><a href="Google+Redesign/Apparel?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light" role="button" aria-expanded="false">Apparel <span class="sr-only">(current)</span><span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Google+Redesign/Apparel/Hats">Hats</a></li>
+                                    <li><a href="Google+Redesign/Apparel/Kids?tpt=theme1_en&sortci=orderscount+desc">Kids</a></li>
+                                    <li><a href="Google+Redesign/Apparel/Mens?tpt=theme1_en&sortci=orderscount+desc">Men's / Unisex</a></li>
+                                    <li><a href="Google+Redesign/Apparel/Socks">Socks</a></li>
+                                    <li><a href="Google+Redesign/Apparel/Womens">Women's</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="Google+Redesign/Lifestyle?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light" role="button" aria-expanded="false">Lifestyle <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Google+Redesign/Lifestyle/Bags">Bags</a></li>
+                                    <li><a href="Google+Redesign/Lifestyle/Drinkware">Drinkware</a></li>
+                                    <li><a href="Google+Redesign/Lifestyle/Small+Goods">Small Goods</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="Google+Redesign/Stationery?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light" role="button" aria-expanded="false">Stationery <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="Google+Redesign/Stationery/Notebooks?tpt=theme1_en&sortci=orderscount+desc">Notebooks</a></li>
+                                    <li><a href="Google+Redesign/Stationery/Stickers?tpt=theme1_en&sortci=orderscount+desc">Stickers</a></li>
+                                    <li><a href="Google+Redesign/Stationery/Writing">Writing</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="Google+Redesign/eco+friendly?tpt=theme1_en&sortci=newest+desc" class="waves-effect waves-light">Eco-Friendly</a></li>
+                                                            
+                                                        
+                            
+                                                                                    
+                                                        <li class="dropdown">
+                                <a href="Google+Redesign/Shop+by+Brand?tpt=theme1_en&sortci=orderscount+desc" class="waves-effect waves-light" role="button" aria-expanded="false">Shop by Brand <span class="caret"></span></a>
+                                <ul class="dropdown-menu" role="menu">
+                                                                        <li><a href="Google+Redesign/Shop+by+Brand/Android?tpt=theme1_en&sortci=orderscount+desc">Android</a>
+                                    </li>
+                                    <li><a href="Google+Redesign/Shop+by+Brand/Google+Chrome+Dino?tpt=theme1_en&sortci=newest+desc">Chrome Dino</a>
+                                    </li>
+                                    <li><a href="Google+Redesign/Shop+by+Brand/Google?tpt=theme1_en&sortci=newest+desc">Google</a>
+                                    </li>
+                                    <li><a href="Google+Redesign/Shop+by+Brand/Google+Cloud?tpt=theme1_en&sortci=newest+desc">Google Cloud</a>
+                                    </li>
+                                    <li><a href="Google+Redesign/Shop+by+Brand/YouTube?tpt=theme1_en&sortci=newest+desc">YouTube</a>
+                                    </li>
+                                    
+                                </ul>
+                            </li>
+                            
+                              
+                                                                        
+                          
+                            
+                           
+                                                        <li class="navBreak"><a href="Google+Redesign/Clearance" class="waves-effect waves-light" role="button" aria-expanded="false" style="color:red;">Sale </a>
+                                
+                            </li>
+                            <li><a href="Google+Redesign/Campus+Collection" class="waves-effect waves-light">Campus Collection</a></li>
+                                                    </ul>
+                        <div class="pull-right right-container scrollCart" style="display: none;">
+                                                            <div class="form-group waves-effect waves-light">
+                                    
+                                    <a href="basket.html?vid=20160512512"><span class="cartBadge badge red pull-right mobile-basket">0</span><i class="material-icons pull-right shopping-cart">shopping_cart</i></a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="navbar-row-2 navbar-header col-xs-12 container-fluid white holidayMsg hide">
+                    <div class="warning alert z-depth-1 danger-color-dark">
+                        <p class="text-center">In observance of the New Year, our distribution center will be closed on December 31st and January 1st. We will resume normal operations on Thursday, January 2nd.</p>
+                     </div>
+                </div>
+                
+                <div class="navbar-row-2 navbar-header col-xs-12 container-fluid white holidayMsg hide">
+                   <div class="warning alert z-depth-1 info-color-dark">
+                       <p class="text-center">Celebrate Earth Day with 10% off! Enter EARTHDAY10 at checkout for 10% off 4/13-4/22.</p>
+                    </div>
+                 </div>
+                
+                <div class="navbar-row-2 navbar-header col-xs-12 container-fluid white holidayMsg hide">
+                    <div class="warning alert z-depth-1 info-color-dark">
+                        <p class="text-center">
+                            We are currently restocking all of your favorite items!  Please check back soon.
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="clearfix"></div>
+                <div class="navbar-row-3 navbar-header visible-xs blue darken-2">
+                    <div class="col-xs-2 container-navbar-menu-button pull-left">
+                        <!-- SideNav slide-out button -->
+                                                <a href="javascript:void(0);" data-activates="slide-out" class="navbar-brand button-collapse slide-out-button"><i class="material-icons menu" style="background:none !important; border:none !important;">menu</i></a>
+                                                <!--/. SideNav slide-out button -->
+                    </div>
+                    <div class="navbar-header col-xs-10">
+                                      <form action="https://shop.googlemerchandisestore.com/asearch.html" onsubmit="removeAngleBrackets();checkKey();" id="searchForm1" class="navbar-form navbar-right mobileSearch" role="search">
+                    <div class="form-group waves-effect waves-light col-xs-10">
+                		                		                
+                		<input type="hidden" name="vid" value="20160512512" />
+                	                		<input type="hidden" name="key" value="" id="keyword1" />
+
+												<input type="text" class="typeahead" name="keyword" value="" id="key1" autocomplete="off" placeholder="Search..." />
+						<input type="submit" class="submit hide" value="Go" />
+						</div>
+
+                                <a href="basket.html?vid=20160512512"><span class="cartBadge badge red pull-right mobile-basket">0</span><i class="material-icons pull-right shopping-cart" style="">shopping_cart</i></a>
+                            
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!--/.Navigation-->
+    </header>
+    
+<div id="geoConfirmBoxBack" class="hidden">
+    <div class="geoConfirmBox">
+        <img class="img-responsive" src="store/20160512512/assets/themes/theme1_en/images/logo2.png" /><br/><br/>
+        
+        <p>You have reached the Google Merchandise Store for <strong>U.S. & Canadian</strong> customers. Orders placed in this store may only be shipped to these countries.</p>
+
+        <p>If you would like to access the Google Merchandise Store for <strong>International/Rest-of-World</strong> customers, please <a onclick="trackInteractionEvent(this.href,'International Users Pop-up','Redirect to International Site',countryCode);" href="https://your.googlemerchandisestore.com/">click here</a>.</p>
+        
+        <p>If you would like to remain in the <strong>U.S./Canadian</strong> store, please <a href="javascript:void(0);" onclick="closeGeoConfirmBox();">click here</a> to close this window.</p>
+        
+    </div>
+</div>
+
+<div id="notifyCart"></div>
+
+<div id="searchPopupBack" class="hidden">
+    <div class="searchPopupContain">
+    <div class="popupTop">
+        <p class="pull-left">Search</p>
+                <p class="pull-right"><a href="javascript:void(0);" onclick="jQuery('#searchPopupBack').addClass('hidden');"><i class="material-icons">close</i></a></p>
+                <div class="clearfix"></div>
+    </div>
+    <div class="searchPopBody">
+        <form action="https://shop.googlemerchandisestore.com/asearch.html" onsubmit="checkKey();" id="searchForm" class="navbar-form navbar-right col-xs-10" role="search">
+												
+						<input type="hidden" name="vid" value="20160512512" />
+						<input type="hidden" name="key" value="" id="keyword" />
+
+																					
+																		<div>
+										<input type="text" class="typeahead form-control" name="keyword" value="" id="key" autocomplete="off" placeholder="Search Keyword..." />
+										</div>
+																											<div>
+										<input type="submit" class="submit btn btn-primary" value="Go" />
+									</div>
+																															
+							
+						
+                        
+					</form>
+					</div>
+    </div>
+</div>
+
+
+
+            
+
+                                                        <!-- Use Cache Mode: true -->
+    
+                                                                                                                                                                                                                                                                                                                      
+    
+                            <!-- value -->
+                                
+                                                                                                                                        
+            
+            
+            
+            
+  <main>
+        <div class="main-wrapper paging" ng-controller="scrollController">
+            <div class="container-fluid">
+                <div class="col-xs-12 filter-container">
+                    <div class="col-xs-12 col-sm-9">
+                    
+
+<style>
+.facets-filters > a.facetTitle, .facets-filters select {
+  width: 18% !important;
+  margin-left: 2%;
+  display: block;
+  float: left;
+  border: 1px solid #848484;
+  padding: 0px 1%;
+}
+
+.facets-filters select {
+  height: 39px;
+  background-color: #F7F7F7;
+}
+
+.facets-filters a h5 {
+  color: #848484;
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+.facets-filters {
+  position: relative;
+  margin-top: 10px;
+}
+
+.filter-container {
+  background-color: #F7F7F7;
+  position:fixed;
+  z-index: 100;
+  margin-top: -20px;
+}
+
+.main-wrapper.paging .container-fluid {
+    padding: 0px;
+}
+
+.catTitle {
+  text-align: right;
+  font-size: 1.8em;
+  margin-right: 30px;
+}
+
+.filter-container, .filter-container .col-sm-3, .filter-container .col-sm-9 {
+  padding: 0px;
+}
+
+@media screen and (max-width: 1200px) {
+  .filter-container {
+
+  }
+  .listing.grid {
+      margin-top: 0px;
+  }
+  
+  .filter-container {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .facets-filters select {
+    width: 48% !important;
+    margin-bottom: 10px;
+  }
+  
+  .filter-container .col-sm-3 h4 {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .facets-filters select {
+    width: 96% !important;
+  }
+}
+</style>
+
+<script src="https://code.jquery.com/jquery-migrate-1.3.0.min.js"></script>
+
+
+
+
+<!-- Start facets_menu_search.vm  -->
+	
+  <div class="facets-menu-wrapper">
+		
+    
+    
+    <div class="facets-filters">
+   
+      
+    
+      
+
+
+
+    
+            <div class="floatClear"></div>
+          
+            
+          
+                  
+                            <!--test Item_Type_p  2  Infant  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@6c535573  -->
+                                                            <!--test Item_Type_p  0  Jacket  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@3b116c19  -->
+                                            <!--test Item_Type_p  11  Jackets  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@3cf31fe3  -->
+                                                            <!--test Item_Type_p  6  Mugs & Tumblers  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@d6e48b7  -->
+                                                            <!--test Item_Type_p  0  Polos  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@7b606ca4  -->
+                                            <!--test Item_Type_p  1  Sweatshirts  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@4b21b675  -->
+                                                            <!--test Item_Type_p  38  Tees  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@6f09b4f5  -->
+                                                            <!--test Item_Type_p  3  Toddler  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@10dd6253  -->
+                                                            <!--test Item_Type_p  10  Water Bottles  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@68a039a0  -->
+                                                            <!--test Item_Type_p  3  Youth  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@2e74a8df  -->
+                                                      
+                        
+                                
+                
+                                                                <form method="get" name="shbic_Item_Type" action="store.html">
+                                                                                                                                                                                                                                          <input type=hidden name=cid value='48998'><input type=hidden name=vid value='20160512512'><input type=hidden name=tpt value='theme1_en'>
+                                                        
+                  <select id="filled-in-$cf.name-1" class="browser-default" onChange="document.shbic_Item_Type.submit()" name='Item_Type'>
+    			  <option >Item Type</option>
+                  <!--<li > Select $cf.propDesc</li>-->
+    			 
+                                                          			                                                                                     <option value='Infant' >Infant</option>
+                                                                                                                                  			                                                                                     <option value='Jackets' >Jackets</option>
+                                                                                              			                                                                                     <option value='Mugs & Tumblers' >Mugs & Tumblers</option>
+                                                                                                                                  			                                                                                     <option value='Sweatshirts' >Sweatshirts</option>
+                                                                                              			                                                                                     <option value='Tees' >Tees</option>
+                                                                                              			                                                                                     <option value='Toddler' >Toddler</option>
+                                                                                              			                                                                                     <option value='Water Bottles' >Water Bottles</option>
+                                                                                              			                                                                                     <option value='Youth' >Youth</option>
+                                                                        </select>
+                                  </form>
+                                                                              
+          
+                  
+                            <!--test Brand_p  0  #IamRemarkable  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@cf80ff8  -->
+                                            <!--test Brand_p  15  Android  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@774c2bce  -->
+                                                            <!--test Brand_p  0  Chrome Dino  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@1ec861be  -->
+                                            <!--test Brand_p  110  Google  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@15f100e8  -->
+                                                            <!--test Brand_p  0  Google Cloud  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@593a4a61  -->
+                                            <!--test Brand_p  0  Waze  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@4fbe08d3  -->
+                                            <!--test Brand_p  1  YouTube  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@1226450b  -->
+                                                      
+                        
+                                
+                
+                                                                <form method="get" name="shbic_Brand" action="store.html">
+                                                                                                                                                                                                                                          <input type=hidden name=cid value='48998'><input type=hidden name=vid value='20160512512'><input type=hidden name=tpt value='theme1_en'>
+                                                        
+                  <select id="filled-in-$cf.name-2" class="browser-default" onChange="document.shbic_Brand.submit()" name='Brand'>
+    			  <option >Brand of Item</option>
+                  <!--<li > Select $cf.propDesc</li>-->
+    			 
+                                                                                              			                                                                                     <option value='Android' >Android</option>
+                                                                                                                                  			                                                                                     <option value='Google' >Google</option>
+                                                                                                                                                                      			                                                                                     <option value='YouTube' >YouTube</option>
+                                                                        </select>
+                                  </form>
+                                                                              
+          
+                  
+                            <!--test Subcategory_p  58  Apparel  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@6e87ae32  -->
+                                                            <!--test Subcategory_p  47  Lifestyle  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@65d4c520  -->
+                                                            <!--test Subcategory_p  21  Stationery  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@119af380  -->
+                                                      
+                        
+                                
+                
+                                                                <form method="get" name="shbic_Subcategory" action="store.html">
+                                                                                                                                                                                                                                          <input type=hidden name=cid value='48998'><input type=hidden name=vid value='20160512512'><input type=hidden name=tpt value='theme1_en'>
+                                                        
+                  <select id="filled-in-$cf.name-3" class="browser-default" onChange="document.shbic_Subcategory.submit()" name='Subcategory'>
+    			  <option >Subcategory</option>
+                  <!--<li > Select $cf.propDesc</li>-->
+    			 
+                                                          			                                                                                     <option value='Apparel' >Apparel</option>
+                                                                                              			                                                                                     <option value='Lifestyle' >Lifestyle</option>
+                                                                                              			                                                                                     <option value='Stationery' >Stationery</option>
+                                                                        </select>
+                                  </form>
+                                                                              
+          
+                  
+                            <!--test Campus_Location_p  6  Austin  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@1c9a356d  -->
+                                                            <!--test Campus_Location_p  8  Boulder  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@15a65ba6  -->
+                                                            <!--test Campus_Location_p  8  Cambridge  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@5d97f1de  -->
+                                                            <!--test Campus_Location_p  7  Chicago  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@36daa975  -->
+                                                            <!--test Campus_Location_p  6  Kirkland  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@7ba6d39e  -->
+                                                            <!--test Campus_Location_p  7  Los Angeles  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@5c7adc27  -->
+                                                            <!--test Campus_Location_p  2  Mountain View  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@3e81cf77  -->
+                                                            <!--test Campus_Location_p  4  New York City  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@5d7348d3  -->
+                                                            <!--test Campus_Location_p  8  Pacific Northwest  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@10844ac0  -->
+                                                            <!--test Campus_Location_p  0  Redwood City  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@1a953713  -->
+                                            <!--test Campus_Location_p  4  San Francisco  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@2adfa941  -->
+                                                            <!--test Campus_Location_p  3  Seattle  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@6dad4919  -->
+                                                            <!--test Campus_Location_p  4  Sunnyvale  com.avetti.commerce.solr.pojo.SolrSearchRepository$Facet@5f4ddc26  -->
+                                                      
+                        
+                                
+                
+                                                                <form method="get" name="shbic_Campus_Location" action="store.html">
+                                                                                                                                                                                                                                          <input type=hidden name=cid value='48998'><input type=hidden name=vid value='20160512512'><input type=hidden name=tpt value='theme1_en'>
+                                                        
+                  <select id="filled-in-$cf.name-4" class="browser-default" onChange="document.shbic_Campus_Location.submit()" name='Campus_Location'>
+    			  <option >Campus Location</option>
+                  <!--<li > Select $cf.propDesc</li>-->
+    			 
+                                                          			                                                                                     <option value='Austin' >Austin</option>
+                                                                                              			                                                                                     <option value='Boulder' >Boulder</option>
+                                                                                              			                                                                                     <option value='Cambridge' >Cambridge</option>
+                                                                                              			                                                                                     <option value='Chicago' >Chicago</option>
+                                                                                              			                                                                                     <option value='Kirkland' >Kirkland</option>
+                                                                                              			                                                                                     <option value='Los Angeles' >Los Angeles</option>
+                                                                                              			                                                                                     <option value='Mountain View' >Mountain View</option>
+                                                                                              			                                                                                     <option value='New York City' >New York City</option>
+                                                                                              			                                                                                     <option value='Pacific Northwest' >Pacific Northwest</option>
+                                                                                                                                  			                                                                                     <option value='San Francisco' >San Francisco</option>
+                                                                                              			                                                                                     <option value='Seattle' >Seattle</option>
+                                                                                              			                                                                                     <option value='Sunnyvale' >Sunnyvale</option>
+                                                                        </select>
+                                  </form>
+                                                                              
+      
+            
+      <form method="get" id="sortP" name="sortP" action="store.html">
+                                                                                                                                                                                                                                      <input type=hidden name=cid value='48998'><input type=hidden name=vid value='20160512512'><input type=hidden name=tpt value='theme1_en'>
+                                    
+                  <select class="browser-default" name="sortci" id="sortby" onchange="document.sortP.submit();">
+                    <option value=""> Sort By </option>
+                    <option value="stitle asc" >Title A --> Z</option> 
+                    <option value="newest desc" >New Items</option> 
+                    <option value="price asc" > Price: Low to High </option>
+                    <option value="price desc" > Price: High to Low </option>
+                                       <option value="orderscount desc" > Best Sellers </option>
+                                      </select>
+                              </form>
+      
+      
+    <div class="clearfix"></div>  
+    </div>
+    </div>
+  <div class="facetCrumbs col-xs-12">
+  
+    
+    												  
+  
+    
+    
+
+
+													    
+    </div>
+  
+
+<script nonce="$CSPNonce">
+  function hideFacet(div){
+    
+    jQuery(div).siblings('ul').slideToggle(300);
+    
+    if (jQuery(div).children('.showHideSign').text() == "") {
+        jQuery(div).children('.showHideSign').text("+");
+    }
+    else if (jQuery(div).children('.showHideSign').text() == "+") {
+        jQuery(div).children('.showHideSign').text("");
+    }
+  }
+</script>
+
+<!-- End facets_menu_search.vm  -->
+
+
+    
+    
+<script nonce="$CSPNonce">
+    jQuery(document).ready(function() {
+        jQuery('.filter-container').css('width',jQuery('.main-wrapper.paging .container-fluid').width());
+    });
+    
+    jQuery(window).resize(function(){
+        jQuery('.filter-container').css('width',jQuery('.main-wrapper.paging .container-fluid').width());
+    });
+</script>                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <h4 class="catTitle">Sale</h4>
+                    </div>
+                    
+                    
+                </div>
+                <div class="clearfix"></div>
+                
+                
+                
+                <div class="col-md-6">
+                    <div class="pull-right text-right">
+                    <!-- 4 -->
+                        
+                    </div>
+                </div>
+                
+                <div class="clearfix"></div>
+                
+                <div class="col-sm-12" style="padding-top:60px;">
+                                    </div>
+                
+                <div class="clearfix"></div>
+                
+                
+                
+                <div class="listing grid">
+                    
+
+
+<!-- Start item listing -->
+
+
+
+
+
+  
+    
+            
+
+      
+
+                                                                      
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-1" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184857" action="storeitem.html?20160512512&iid=9184857">
+            <input type="hidden" id="parent-itemid-9184857" value="9184857"/>
+            <input type="hidden" id="parent-code-9184857" value="GGOEGXXX0906"/>
+            <input type="hidden" id="parent-qty-9184857" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184857" name="basketItems[1].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184857" value="1">
+            <span class="hide"   id="js-item-inv-9184857">0</span>
+            <span class="hide"   id="js-item-itemid-9184857">9184857</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184857">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-1" onclick="initPage('#card-1'); prodTagPush('flip', '9184857', 'Google Tee Green', 'GGOEGXXX0906', '22.00', '1', 'Home/Sale/', 'category', 'Google'); jQuery('#card-1').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0906.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0906.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0906.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184857" src="store/20160512512/assets/items/images/GGOEGXXX0906.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184857" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Google Tee Green</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184857">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184857" class="integer">11</span>.<span id="parent-pricecent-9184857" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-1" onclick="jQuery('#card-1').toggleClass('flipped');">
+                        <h5 id="parent-title-9184857" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Google Tee Green</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184857">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184857" class="integer">11</span>.<span id="parent-pricecent-9184857" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            100% cotton jersey fabric sets this Google t-shirt above the crowd. Features the google logo across the chest. Unisex sizing.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184857" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184857" onclick="prodTagPush('addCart', '9184857', 'Google Tee Green', 'GGOEGXXX0906', '22.00', '1', 'Home/Sale/', 'category', 'Google', jQuery('#js-item-qtybox-9184857').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184857" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184857', 'Google Tee Green', 'GGOEGXXX0906', '22.00', '1', 'Home/Sale/', 'category', 'Google'); " href="Google+Greenesign/Apparel/Google+Tee+Green">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                      
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-2" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184849" action="storeitem.html?20160512512&iid=9184849">
+            <input type="hidden" id="parent-itemid-9184849" value="9184849"/>
+            <input type="hidden" id="parent-code-9184849" value="GGOEGXXX0905"/>
+            <input type="hidden" id="parent-qty-9184849" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184849" name="basketItems[2].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184849" value="2">
+            <span class="hide"   id="js-item-inv-9184849">0</span>
+            <span class="hide"   id="js-item-itemid-9184849">9184849</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184849">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-2" onclick="initPage('#card-2'); prodTagPush('flip', '9184849', 'Google Tee Yellow', 'GGOEGXXX0905', '22.00', '2', 'Home/Sale/', 'category', 'Google'); jQuery('#card-2').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0905.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0905.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0905.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184849" src="store/20160512512/assets/items/images/GGOEGXXX0905.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184849" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Google Tee Yellow</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184849">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184849" class="integer">11</span>.<span id="parent-pricecent-9184849" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-2" onclick="jQuery('#card-2').toggleClass('flipped');">
+                        <h5 id="parent-title-9184849" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Google Tee Yellow</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184849">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184849" class="integer">11</span>.<span id="parent-pricecent-9184849" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            100% cotton jersey fabric sets this Google t-shirt above the crowd. Features the Google logo across the chest. Unisex Sizing.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184849" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184849" onclick="prodTagPush('addCart', '9184849', 'Google Tee Yellow', 'GGOEGXXX0905', '22.00', '2', 'Home/Sale/', 'category', 'Google', jQuery('#js-item-qtybox-9184849').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184849" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184849', 'Google Tee Yellow', 'GGOEGXXX0905', '22.00', '2', 'Home/Sale/', 'category', 'Google'); " href="Google+Yellowesign/Apparel/Google+Tee+Yellow">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                            
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-3" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184955" action="storeitem.html?20160512512&iid=9184955">
+            <input type="hidden" id="parent-itemid-9184955" value="9184955"/>
+            <input type="hidden" id="parent-code-9184955" value="GGOEGXXX0919"/>
+            <input type="hidden" id="parent-qty-9184955" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184955" name="basketItems[3].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184955" value="3">
+            <span class="hide"   id="js-item-inv-9184955">0</span>
+            <span class="hide"   id="js-item-itemid-9184955">9184955</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184955">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-3" onclick="initPage('#card-3'); prodTagPush('flip', '9184955', 'YouTube Women\'s Favorite Tee White', 'GGOEGXXX0919', '22.00', '3', 'Home/Sale/', 'category', 'YouTube'); jQuery('#card-3').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0919.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0919.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX0919.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184955" src="store/20160512512/assets/items/images/GGOEGXXX0919.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184955" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">YouTube Women's Favorite Tee White</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184955">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184955" class="integer">11</span>.<span id="parent-pricecent-9184955" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-3" onclick="jQuery('#card-3').toggleClass('flipped');">
+                        <h5 id="parent-title-9184955" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">YouTube Women's Favorite Tee White</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184955">22.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184955" class="integer">11</span>.<span id="parent-pricecent-9184955" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Keep it simple with the new logo wearing this Youtube tee.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184955" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184955" onclick="prodTagPush('addCart', '9184955', 'YouTube Women\'s Favorite Tee White', 'GGOEGXXX0919', '22.00', '3', 'Home/Sale/', 'category', 'YouTube', jQuery('#js-item-qtybox-9184955').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184955" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184955', 'YouTube Women\'s Favorite Tee White', 'GGOEGXXX0919', '22.00', '3', 'Home/Sale/', 'category', 'YouTube'); " href="Google+Redesign/Apparel/Youtube+Favorite+Tee+White">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                                                    
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-4" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9195295" action="storeitem.html?20160512512&iid=9195295">
+            <input type="hidden" id="parent-itemid-9195295" value="9195295"/>
+            <input type="hidden" id="parent-code-9195295" value="GGOEAFBA115499"/>
+            <input type="hidden" id="parent-qty-9195295" value="1"/>
+            
+            <input type="hidden" id="parent-process-9195295" name="basketItems[4].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9195295" value="4">
+            <span class="hide"   id="js-item-inv-9195295">0</span>
+            <span class="hide"   id="js-item-itemid-9195295">9195295</span>
+            <div  class="hide"   id="js-item-hiddenfields-9195295">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-4" onclick="initPage('#card-4'); prodTagPush('flip', '9195295', 'Android Techie 3D Framed Art', 'GGOEAFBA115499', '40.00', '4', 'Home/Sale/', 'category', 'Android'); jQuery('#card-4').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115499.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115499.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115499.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9195295" src="store/20160512512/assets/items/images/GGOEAFBA115499.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9195295" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android Techie 3D Framed Art</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195295">40.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9195295" class="integer">20</span>.<span id="parent-pricecent-9195295" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-4" onclick="jQuery('#card-4').toggleClass('flipped');">
+                        <h5 id="parent-title-9195295" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android Techie 3D Framed Art</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195295">40.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9195295" class="integer">20</span>.<span id="parent-pricecent-9195295" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Show off your tech knowledge with this Android Techie 3D Framed Art!
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9195295" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9195295" onclick="prodTagPush('addCart', '9195295', 'Android Techie 3D Framed Art', 'GGOEAFBA115499', '40.00', '4', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9195295').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9195295" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9195295', 'Android Techie 3D Framed Art', 'GGOEAFBA115499', '40.00', '4', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Accessories/Android+Techie+3D+Framed+Art">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                                                    
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-5" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9195296" action="storeitem.html?20160512512&iid=9195296">
+            <input type="hidden" id="parent-itemid-9195296" value="9195296"/>
+            <input type="hidden" id="parent-code-9195296" value="GGOEAFBA115599"/>
+            <input type="hidden" id="parent-qty-9195296" value="1"/>
+            
+            <input type="hidden" id="parent-process-9195296" name="basketItems[5].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9195296" value="5">
+            <span class="hide"   id="js-item-inv-9195296">0</span>
+            <span class="hide"   id="js-item-itemid-9195296">9195296</span>
+            <div  class="hide"   id="js-item-hiddenfields-9195296">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-5" onclick="initPage('#card-5'); prodTagPush('flip', '9195296', 'Android Super Hero 3D Framed Art', 'GGOEAFBA115599', '40.00', '5', 'Home/Sale/', 'category', 'Android'); jQuery('#card-5').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115599.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115599.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115599.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9195296" src="store/20160512512/assets/items/images/GGOEAFBA115599.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9195296" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android Super Hero 3D Framed Art</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195296">40.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9195296" class="integer">20</span>.<span id="parent-pricecent-9195296" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-5" onclick="jQuery('#card-5').toggleClass('flipped');">
+                        <h5 id="parent-title-9195296" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android Super Hero 3D Framed Art</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195296">40.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9195296" class="integer">20</span>.<span id="parent-pricecent-9195296" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Put your out of this world Android pride on display with this Android Super Hero 3D Framed Art!
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9195296" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9195296" onclick="prodTagPush('addCart', '9195296', 'Android Super Hero 3D Framed Art', 'GGOEAFBA115599', '40.00', '5', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9195296').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9195296" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9195296', 'Android Super Hero 3D Framed Art', 'GGOEAFBA115599', '40.00', '5', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Accessories/Android+Super+Hero+3D+Framed+Art">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-6" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184979" action="storeitem.html?20160512512&iid=9184979">
+            <input type="hidden" id="parent-itemid-9184979" value="9184979"/>
+            <input type="hidden" id="parent-code-9184979" value="GGOEAOCB092799"/>
+            <input type="hidden" id="parent-qty-9184979" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184979" name="basketItems[6].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184979" value="6">
+            <span class="hide"   id="js-item-inv-9184979">0</span>
+            <span class="hide"   id="js-item-itemid-9184979">9184979</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184979">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-6" onclick="initPage('#card-6'); prodTagPush('flip', '9184979', 'Android Large Trace Journal Black', 'GGOEAOCB092799', '16.00', '6', 'Home/Sale/', 'category', 'Android'); jQuery('#card-6').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092799.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092799.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092799.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184979" src="store/20160512512/assets/items/images/GGOEAOCB092799.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184979" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android Large Trace Journal Black</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184979">16.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184979" class="integer">8</span>.<span id="parent-pricecent-9184979" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-6" onclick="jQuery('#card-6').toggleClass('flipped');">
+                        <h5 id="parent-title-9184979" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android Large Trace Journal Black</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184979">16.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184979" class="integer">8</span>.<span id="parent-pricecent-9184979" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            This Android Large Trace Journal provides an escape and a chance to write down your latest inspirations!
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184979" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184979" onclick="prodTagPush('addCart', '9184979', 'Android Large Trace Journal Black', 'GGOEAOCB092799', '16.00', '6', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9184979').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184979" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184979', 'Android Large Trace Journal Black', 'GGOEAOCB092799', '16.00', '6', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Office/Android+Large+Trace+Journal+Black">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-7" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184980" action="storeitem.html?20160512512&iid=9184980">
+            <input type="hidden" id="parent-itemid-9184980" value="9184980"/>
+            <input type="hidden" id="parent-code-9184980" value="GGOEAOCB092899"/>
+            <input type="hidden" id="parent-qty-9184980" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184980" name="basketItems[7].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184980" value="7">
+            <span class="hide"   id="js-item-inv-9184980">0</span>
+            <span class="hide"   id="js-item-itemid-9184980">9184980</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184980">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-7" onclick="initPage('#card-7'); prodTagPush('flip', '9184980', 'Android Small Trace Journal Black', 'GGOEAOCB092899', '13.00', '7', 'Home/Sale/', 'category', 'Android'); jQuery('#card-7').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092899.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092899.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAOCB092899.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184980" src="store/20160512512/assets/items/images/GGOEAOCB092899.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184980" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android Small Trace Journal Black</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184980">13.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184980" class="integer">6</span>.<span id="parent-pricecent-9184980" class="decimal">50</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-7" onclick="jQuery('#card-7').toggleClass('flipped');">
+                        <h5 id="parent-title-9184980" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android Small Trace Journal Black</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184980">13.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184980" class="integer">6</span>.<span id="parent-pricecent-9184980" class="decimal">50</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            This Android Small Trace Journal provides an escape and a chance to write down your latest inspirations!
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184980" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184980" onclick="prodTagPush('addCart', '9184980', 'Android Small Trace Journal Black', 'GGOEAOCB092899', '13.00', '7', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9184980').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184980" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184980', 'Android Small Trace Journal Black', 'GGOEAOCB092899', '13.00', '7', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Office/Android+Small+Trace+Journal+Bl">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-8" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184981" action="storeitem.html?20160512512&iid=9184981">
+            <input type="hidden" id="parent-itemid-9184981" value="9184981"/>
+            <input type="hidden" id="parent-code-9184981" value="GGOEGOCL092999"/>
+            <input type="hidden" id="parent-qty-9184981" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184981" name="basketItems[8].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184981" value="8">
+            <span class="hide"   id="js-item-inv-9184981">0</span>
+            <span class="hide"   id="js-item-itemid-9184981">9184981</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184981">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-8" onclick="initPage('#card-8'); prodTagPush('flip', '9184981', 'Google Small Standard Journal Navy', 'GGOEGOCL092999', '13.00', '8', 'Home/Sale/', 'category', 'Google'); jQuery('#card-8').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEGOCL092999.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEGOCL092999.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEGOCL092999.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184981" src="store/20160512512/assets/items/images/GGOEGOCL092999.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184981" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Google Small Standard Journal Navy</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184981">13.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184981" class="integer">6</span>.<span id="parent-pricecent-9184981" class="decimal">50</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-8" onclick="jQuery('#card-8').toggleClass('flipped');">
+                        <h5 id="parent-title-9184981" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Google Small Standard Journal Navy</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184981">13.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184981" class="integer">6</span>.<span id="parent-pricecent-9184981" class="decimal">50</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            This Google Small Standard Journal is perfect to keep on your desk for those great ideas that pop into your head.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184981" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184981" onclick="prodTagPush('addCart', '9184981', 'Google Small Standard Journal Navy', 'GGOEGOCL092999', '13.00', '8', 'Home/Sale/', 'category', 'Google', jQuery('#js-item-qtybox-9184981').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184981" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184981', 'Google Small Standard Journal Navy', 'GGOEGOCL092999', '13.00', '8', 'Home/Sale/', 'category', 'Google'); " href="Google+Redesign/Office/Google+Small+Standard+Journal+Navy">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                                              
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-9" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9188310" action="storeitem.html?20160512512&iid=9188310">
+            <input type="hidden" id="parent-itemid-9188310" value="9188310"/>
+            <input type="hidden" id="parent-code-9188310" value="GGOEACBA104599"/>
+            <input type="hidden" id="parent-qty-9188310" value="1"/>
+            
+            <input type="hidden" id="parent-process-9188310" name="basketItems[9].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9188310" value="9">
+            <span class="hide"   id="js-item-inv-9188310">0</span>
+            <span class="hide"   id="js-item-itemid-9188310">9188310</span>
+            <div  class="hide"   id="js-item-hiddenfields-9188310">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-9" onclick="initPage('#card-9'); prodTagPush('flip', '9188310', 'Android SM S/F18 Sticker Sheet', 'GGOEACBA104599', '3.00', '9', 'Home/Sale/', 'category', 'Android'); jQuery('#card-9').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEACBA104599.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEACBA104599.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEACBA104599.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9188310" src="store/20160512512/assets/items/images/GGOEACBA104599.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9188310" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android SM S/F18 Sticker Sheet</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9188310">3.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9188310" class="integer">2</span>.<span id="parent-pricecent-9188310" class="decimal">10</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-9" onclick="jQuery('#card-9').toggleClass('flipped');">
+                        <h5 id="parent-title-9188310" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android SM S/F18 Sticker Sheet</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9188310">3.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9188310" class="integer">2</span>.<span id="parent-pricecent-9188310" class="decimal">10</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Feeling adventerous? Place these fun Android stickers on your favorite belongings!
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9188310" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9188310" onclick="prodTagPush('addCart', '9188310', 'Android SM S/F18 Sticker Sheet', 'GGOEACBA104599', '3.00', '9', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9188310').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9188310" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9188310', 'Android SM S/F18 Sticker Sheet', 'GGOEACBA104599', '3.00', '9', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Accessories/Android+SM+Sticker+Sheet">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                                                    
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-10" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9195293" action="storeitem.html?20160512512&iid=9195293">
+            <input type="hidden" id="parent-itemid-9195293" value="9195293"/>
+            <input type="hidden" id="parent-code-9195293" value="GGOEAFBA115299"/>
+            <input type="hidden" id="parent-qty-9195293" value="1"/>
+            
+            <input type="hidden" id="parent-process-9195293" name="basketItems[10].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9195293" value="10">
+            <span class="hide"   id="js-item-inv-9195293">0</span>
+            <span class="hide"   id="js-item-itemid-9195293">9195293</span>
+            <div  class="hide"   id="js-item-hiddenfields-9195293">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-10" onclick="initPage('#card-10'); prodTagPush('flip', '9195293', 'Candy Cane Android Cardboard Sculpture', 'GGOEAFBA115299', '20.00', '10', 'Home/Sale/', 'category', 'Android'); jQuery('#card-10').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115299.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115299.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFBA115299.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9195293" src="store/20160512512/assets/items/images/GGOEAFBA115299.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9195293" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Candy Cane Android Cardboard Sculpture</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195293">20.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9195293" class="integer">10</span>.<span id="parent-pricecent-9195293" class="decimal">00</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-10" onclick="jQuery('#card-10').toggleClass('flipped');">
+                        <h5 id="parent-title-9195293" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Candy Cane Android Cardboard Sculpture</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195293">20.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9195293" class="integer">10</span>.<span id="parent-pricecent-9195293" class="decimal">00</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Enjoy putting together this fun holiday themed Android cardboard sculpture.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9195293" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9195293" onclick="prodTagPush('addCart', '9195293', 'Candy Cane Android Cardboard Sculpture', 'GGOEAFBA115299', '20.00', '10', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9195293').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9195293" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9195293', 'Candy Cane Android Cardboard Sculpture', 'GGOEAFBA115299', '20.00', '10', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Accessories/Candy+Cane+Android+Cardboard+Sculpture">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                                                          
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-11" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9184749" action="storeitem.html?20160512512&iid=9184749">
+            <input type="hidden" id="parent-itemid-9184749" value="9184749"/>
+            <input type="hidden" id="parent-code-9184749" value="GGOEAFKA087599"/>
+            <input type="hidden" id="parent-qty-9184749" value="1"/>
+            
+            <input type="hidden" id="parent-process-9184749" name="basketItems[11].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9184749" value="11">
+            <span class="hide"   id="js-item-inv-9184749">0</span>
+            <span class="hide"   id="js-item-itemid-9184749">9184749</span>
+            <div  class="hide"   id="js-item-hiddenfields-9184749">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-11" onclick="initPage('#card-11'); prodTagPush('flip', '9184749', 'Android Large Removable Sticker Sheet', 'GGOEAFKA087599', '3.00', '11', 'Home/Sale/', 'category', 'Android'); jQuery('#card-11').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFKA087599.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFKA087599.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEAFKA087599.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9184749" src="store/20160512512/assets/items/images/GGOEAFKA087599.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9184749" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Android Large Removable Sticker Sheet</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184749">3.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9184749" class="integer">2</span>.<span id="parent-pricecent-9184749" class="decimal">10</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-11" onclick="jQuery('#card-11').toggleClass('flipped');">
+                        <h5 id="parent-title-9184749" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Android Large Removable Sticker Sheet</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9184749">3.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9184749" class="integer">2</span>.<span id="parent-pricecent-9184749" class="decimal">10</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            Show your quircky side by placing these fun Android stickers on your personal belongings.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9184749" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9184749" onclick="prodTagPush('addCart', '9184749', 'Android Large Removable Sticker Sheet', 'GGOEAFKA087599', '3.00', '11', 'Home/Sale/', 'category', 'Android', jQuery('#js-item-qtybox-9184749').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9184749" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9184749', 'Android Large Removable Sticker Sheet', 'GGOEAFKA087599', '3.00', '11', 'Home/Sale/', 'category', 'Android'); " href="Google+Redesign/Accessories/Android+Large+Removable+Sticker+Sheet">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>    
+            
+
+      
+
+                                                                      
+
+
+                            
+        
+        
+        
+
+                    
+        
+            
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+
+                            
+        
+        
+        
+
+                    
+        
+        
+        
+
+                    
+        
+        
+        
+ 
+ 
+ <!-- TEST  -->
+  
+<div class="col-lg-3 col-md-4 col-sm-6">
+
+    <!--Rotating card-->
+    <div class="card-wrapper">
+        <div id="card-12" class="card-rotating effect__click">
+        
+        <form class="vertical" method="POST" name="F9195862" action="storeitem.html?20160512512&iid=9195862">
+            <input type="hidden" id="parent-itemid-9195862" value="9195862"/>
+            <input type="hidden" id="parent-code-9195862" value="GGOEGXXX1181"/>
+            <input type="hidden" id="parent-qty-9195862" value="1"/>
+            
+            <input type="hidden" id="parent-process-9195862" name="basketItems[12].itemToProcess" value="false">
+            <input type="hidden" id="parent-count-9195862" value="12">
+            <span class="hide"   id="js-item-inv-9195862">0</span>
+            <span class="hide"   id="js-item-itemid-9195862">9195862</span>
+            <div  class="hide"   id="js-item-hiddenfields-9195862">&nbsp;</div>
+            
+            
+            <!--Front Side-->
+            <a class="rotate-btn" data-card="card-12" onclick="initPage('#card-12'); prodTagPush('flip', '9195862', 'Google Women\'s Striped L/S', 'GGOEGXXX1181', '29.00', '12', 'Home/Sale/', 'category', 'Google'); jQuery('#card-12').toggleClass('flipped');">
+                <div class="face card-rotating__front z-depth-1">
+                    <div class="card-up card-image">
+                        <h5 class="card-label"> 
+                            <span class="padding"></span>
+                            </h5>
+                                                <picture>
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX1181.webp" type="image/webp">
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX1181.jpf" type="image/jpf"> 
+                          <source srcset="store/20160512512/assets/items/images/GGOEGXXX1181.jpg" type="image/jpeg"> 
+                          <img class="img-responsive" id="js-item-cimage-9195862" src="store/20160512512/assets/items/images/GGOEGXXX1181.jpg">
+                        </picture>
+                                            </div>
+                    <div class="col-md-12">
+                        <h5 id="parent-title-9195862" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">Google Women's Striped L/S</h5>
+                                                
+                        
+                        <h5 class="pull-right" style="text-align: center; font-size:15px; width: 100%;">
+                        
+                                                                                                              <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195862">29.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                                                    
+                                                <span class="currency">$</span><span id="parent-pricedollar-9195862" class="integer">20</span>.<span id="parent-pricecent-9195862" class="decimal">30</span>
+                                                    
+                        </h5>
+                    </div>
+                    <!--Triggering button-->
+                </div>
+            </a>
+            <!--/.Front Side-->
+
+            <!--Back Side-->
+            <div class="quick-view-back">
+                <div class="face card-rotating__back z-depth-1">
+                    <a class="rotate-btn" data-card="card-12" onclick="jQuery('#card-12').toggleClass('flipped');">
+                        <h5 id="parent-title-9195862" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">Google Women's Striped L/S</h5>
+                        
+                        
+                        <h5 class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; ">
+                        
+                                                                                      <span class="list-price discountedPercent"><span class="currency">$</span><span id="js-item-listprice-9195862">29.00</span></span> &nbsp;&nbsp;&nbsp;
+                                                                            
+                                                    <span class="currency">$</span><span id="parent-pricedollar-9195862" class="integer">20</span>.<span id="parent-pricecent-9195862" class="decimal">30</span>
+                                                    
+                        </h5>
+                        <div class="clearfix"></div>
+                        <p class="card-content text-center">
+                            You will love this bright and fun long sleeve striped Tee. It features the iconic Google colors in striped fashion from top to bottom.
+                        </p>
+                    </a>
+                    <hr />
+
+    
+                    <div id="js-item-attributes-9195862" class="item-attr-section" ></div>
+                    
+                    
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="container-quick-add">
+                        <a id="js-item-addtocartbtn-9195862" onclick="prodTagPush('addCart', '9195862', 'Google Women\'s Striped L/S', 'GGOEGXXX1181', '29.00', '12', 'Home/Sale/', 'category', 'Google', jQuery('#js-item-qtybox-9195862').val()); " class="col-xs-6 quick-add" hre="#" >
+                            <p>Add to Cart</p>
+                        </a>
+                        <div class="col-xs-6 input-field qty text-center">
+                            <input id="js-item-qtybox-9195862" type="number" class="text-center" value="1" min="1">
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <hr />
+                    <div class="">
+                        <a class="col-xs-12 view-product" onclick="prodTagPush('viewProd', '9195862', 'Google Women\'s Striped L/S', 'GGOEGXXX1181', '29.00', '12', 'Home/Sale/', 'category', 'Google'); " href="Google+Redesign/Apparel/Google+Womens+Google+Striped+LS">
+                            <p class="text-center">View Product</p>
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            <!--/.Back Side-->
+
+        </div>
+    </div>
+    <!--/.Rotating card-->
+    <div class="clearfix"></div>
+</div>
+
+</form>      
+  <!-- End item listing -->
+
+  
+
+
+			
+			
+<script nonce="$CSPNonce">
+
+function prodTagPush(action, iid, prodName, prodID, prodPrice, prodPos, prodCat, page, brand, quantity) {
+
+    
+
+    var pageType;
+        
+    if(page == "category") {
+        pageType = "category";
+    }
+    else if(page == "search") {
+        pageType = "search results";
+    }
+
+    if(action == "flip") {
+    
+        dataLayer.push({
+            'event': 'view_item',
+            'ecommerce': {
+            'items': [{
+                  'item_name': prodName,
+                  'item_id': prodID,
+                  'price': prodPrice,
+                  'item_category': prodCat,
+                  'G-JPEV636QX5' : pageType.toLowerCase(),
+                  'item_brand' : brand,
+                  'index': prodPos,
+                  'name': prodName,
+                  'id': prodID,
+                  'category': prodCat,
+                  'position': prodPos,
+                  'brand' : brand
+                }]
+             }
+        });
+  
+    }
+    else if(action =="viewProd") {
+    
+    localStorage.setItem("gtm-20160512512-" + prodID, pageType);
+    
+        dataLayer.push({
+            'event': 'productClick',
+            'ecommerce': {
+              'click': {
+                'actionField': {'list': pageType},
+                'products': [{
+                  'name': prodName,
+                  'id': prodID,
+                  'price': prodPrice,
+                  'category': prodCat,
+                  'position': prodPos,
+                  'name': prodName,
+                  'id': prodID,
+                  'category': prodCat,
+                  'position': prodPos
+                 }]
+               }
+             }
+        });
+    }
+    else if(action == "addCart") {
+    
+    var variant = jQuery('#js-item-attributes-' + iid + " select option:selected").text();
+    
+    localStorage.setItem("gtm-20160512512-" + prodID, pageType);
+    
+    
+        dataLayer.push({
+          'event': 'add_to_cart',
+              'ecommerce': {
+                  'items': [{
+                        'item_name': prodName,
+                        'item_id': iid,
+                        'price': prodPrice,
+                        'currency' : 'USD',
+                        'item_category': prodCat,
+                        'item_brand' : brand,
+                        'item_variant' : variant,
+                        'G-JPEV636QX5' : pageType.toLowerCase(),
+                        'quantity': quantity,
+                        'name': prodName,
+                        'id': prodID,
+                        'category': prodCat,
+                        'position': prodPos,
+                        'brand' : brand,
+                        'variant' : variant
+                   }]
+              }
+        });
+    }
+  
+}
+</script>                    
+                    
+<div>
+    <div id="angularNoProd" class="hidden">
+        <h2>Sorry, No Items Could Be Found</h2>
+    </div>
+	    <div class="fluid-container">
+        	<div id="catProductList">
+        	    <div class="col-lg-3 col-md-4 col-sm-6" ng-repeat-start="prod in scrollItems">
+        	        <div class="card-wrapper">
+                        <div id="card-{{prod.id}}" class="card-rotating effect__click">
+                    	    
+                         <form class="vertical" method="POST" name="F{{prod.id}}" action="{{'storeitem.html?20160512512&iid=' + prod.id}}">
+                            <input type="hidden" id="parent-itemid-{{prod.id}}" ng-value="prod.id"/>
+                            <input type="hidden" id="parent-code-{{prod.id}}" ng-value="prod.code"/>
+                            <input type="hidden" id="parent-qty-{{prod.id}}" value="1"/>
+                            
+                                                        <input type="hidden" id="parent-count-{{prod.id}}" ng-value="$index">
+                            <span class="hide"   id="js-item-inv-{{prod.id}}">0</span>
+                            <span class="hide"   id="js-item-itemid-{{prod.id}}">{{prod.id}}</span>
+                            <div  class="hide"   id="js-item-hiddenfields-{{prod.id}}">&nbsp;</div>                   	    
+                    	    
+                    	    
+                    	    <!--Front Side-->
+                            <a class="rotate-btn" id="cardfront-{{(12-0) + (prod.count-0)}}" data-card="card-{{(12-0) + (prod.count-0)}}" ng-click="flipCard(prod)">
+                                <div class="face card-rotating__front z-depth-1">
+                                    <div class="card-up card-image">
+                                        <h5 class="card-label"><span class="padding"></span></h5>
+                                        <img ng-src="{{prod.image}}" class="img-responsive" id="js-item-itemimage-{{prod.id}}">
+                                        <img ng-if="prod.prodBanner" ng-src="{{prod.prodBanner}}" class="img-responsive"/>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <h5 id="parent-title-{{prod.id}}" class="pull-left" style="text-align: center; font-size:15px; width: 100%;">{{prod.title}}</h5>
+                                                                                                                        <h5 ng-if="prod.price.type != 'empty'" class="pull-right" style="text-align: center; font-size:15px; width: 100%;"><span class="list-price discountedPercent" ng-if="prod.cust_sale"><span class="currency">{{prod.currency_sign}}</span><span id="js-item-listprice-{{prod.id}}">{{prod.list_price}}</span></span><span ng-if="prod.cust_sale">&nbsp;&nbsp;&nbsp;</span><span class="currency">{{prod.currency_sign}}</span><span id="parent-pricedollar-{{prod.id}}" class="integer">{{prod.price.value.integer}}</span>.<span id="parent-pricecent-{{prod.id}}" class="decimal">{{prod.price.value.decimal}}</span></h5>
+                                        
+                            <h5 ng-if="prod.price.type == 'empty'" class="pull-right" style="text-align: center; font-size:15px; width: 100%;"><span class="no-price">Free</span></h5>
+                                    </div>
+                                    <!--Triggering button-->
+                                </div>
+                            </a>
+                            <!--/.Front Side-->
+                
+                            <!--Back Side-->
+                            <div class="quick-view-back">
+                                <div class="face card-rotating__back z-depth-1">
+                                    <a class="rotate-btn" data-card="card-{{(12-0) + (prod.count-0)}}" id="cardback-{{(12-0) + (prod.count-0)}}" ng-click="flipCard(prod)">
+                                        <h5 id="parent-title-{{prod.id}}" class="h5-responsive col-sm-12 col-md-12 header text-center" style="font-size:15px; margin-top:8%; font-weight:bold; color:#666;">{{prod.title}}</h5>
+                                        <h5 ng-if="prod.price.type != 'empty'" class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; "><span class="list-price discountedPercent" ng-if="prod.cust_sale"><span class="currency">{{prod.currency_sign}}</span><span id="js-item-listprice-{{prod.id}}">{{prod.list_price}}</span></span><span ng-if="prod.cust_sale">&nbsp;&nbsp;&nbsp;</span><span class="currency">{{prod.currency_sign}}</span><span id="parent-pricedollar-{{prod.id}}" class="integer">{{prod.price.value.integer}}</span>.<span id="parent-pricecent-{{prod.id}}" class="decimal">{{prod.price.value.decimal}}</span></h5>
+                                        <h5 ng-if="prod.price.type == 'empty'" class="h5-responsive col-sm-12 col-sm-offset-12 col-md-12 col-md-offset-0 text-righ price" style="font-size:15px; "><span class="no-price">Free</span></h5>
+                                        <div class="clearfix"></div>
+                                        <p class="card-content text-center">
+                                            {{prod.teaser}}
+                                        </p>
+                                    </a>
+                                    <hr />
+                
+                    
+                                    <div id="js-item-attributes-{{prod.id}}" class="item-attr-section" >
+                                        
+                                    </div>
+                                    
+                                    <div class="clearfix"></div>
+                                    <hr />
+                                                                       <div class="container-quick-add">
+                                        <a class="col-xs-6 quick-add" hre="#" ng-click="addToCart(prod, qtyBox)">
+                                            <p>Add to Cart</p>
+                                        </a>
+                                        <a class="hidden" id="js-item-addtocartbtn-{{prod.id}}" href="#">Add to Cart</a>
+                                        <div class="col-xs-6 input-field qty text-center">
+                                            <input id="js-item-qtybox-{{prod.id}}" type="number" class="text-center" ng-value="{{prod.defQty}}" min="1" ng-model="qtyBox">
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                    <hr />
+                                    <div class="">
+                                        <a class="col-xs-12 view-product" id="viewProdLink-{{prod.id}}" ng-href="{{prod.url}}">
+                                            <p class="text-center">View Product</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--/.Back Side-->
+                    	
+                    	    
+                    	    
+                	    </div>                 	    </form>
+            	    </div>         	    </div>         	    
+        	    
+        	    
+                <div ng-repeat-end></div> 
+        	</div>         <div id="catProductListBottom"></div>
+        <div class="clearfix"></div>
+        <div class="text-center" style="margin-bottom: 30px;">
+            <div class="angularLoad hidden"><i class="fa fa-spinner fa-pulse fa-3x"></i></div>
+            <div class="angularLoadMore hidden"><a href="javascript:void(0);" ng-click="scrollAdd();" class="btn btn-default">Load More Items</a></div>
+            
+        </div>
+    </div> </div>                 </div>
+                
+            </div>
+        </div>
+    </main>          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+  
+
+
+<footer class="page-footer center-on-small-only">
+        <div class="row row-1">
+            <div class="container-fluid">
+                <div class="col-sm-12">
+                    &nbsp;
+                </div>
+                
+                <div class="col-md-6">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row row-2">
+            <div class="container-fluid">
+            <div class="col-md-8">
+                                <div class="col-sm-6">
+                    <div>
+                        <p>
+                            <a href="tel:8553002945" onclick="trackInteractionEvent(this.href,'Contact Us','Onsite Click','Phone');return false;"><i class="material-icons">phone</i> <span class="indent10">1-855-300-2945</span></a>
+                            <br />
+                            <span class="indent15">Monday - Friday: 8:00am - 8:00pm EST</span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div>
+                        <p>
+                            <a onclick="trackInteractionEvent(this.href,'Contact Us','Onsite Click','Email');return false;" href="mailto:googlesupport@robertsonmarketing.com"><i class="material-icons">mail_outline</i> <span class="indent10">Email Us</span></a>
+                            <br />
+                            <span class="indent15">Then we'll take it from there.</span>
+                        </p>
+                    </div>
+                </div>
+                
+                 
+                                
+                
+                                                </div>
+                <div class="col-md-4">
+                    
+                    <div class="col-sm-12">
+                    <div>
+                        <p>
+                            Customer Support
+                            <br />
+                                                                                                                <ul class="list-inline">
+                                <li><a class="grey-text text-lighten-3" href="store-policies/frequently-asked-questions/" onclick="trackInteractionEvent(this.href,'Customer Support','Onsite Click','FAQ');return false;">FAQ</a>
+                                </li>
+                                <li><a class="grey-text text-lighten-3" href="#" target="_blank" rel="noopener noreferrer">|</a>
+                                </li>
+                                
+                                <li><a class="grey-text text-lighten-3" href="store-policies/return-policy/" onclick="trackInteractionEvent(this.href,'Customer Support','Onsite Click','Returns and Exchanges');return false;">Returns and Exchanges</a>
+                                </li>
+                                <li><a class="grey-text text-lighten-3" href="#" target="_blank" rel="noopener noreferrer">|</a>
+                                </li>
+                                <li><a class="grey-text text-lighten-3" href="store-policies/shipping-information/" onclick="trackInteractionEvent(this.href,'Customer Support','Onsite Click','Shipping ');return false;">Shipping</a>
+                                </li>
+                            </ul>
+                            
+                        </p>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container-fluid">
+                <div class="col-md-6 text-left">
+                    <ul class="list-inline">
+                     
+                     <li><a class="grey-text text-lighten-3" href="store-policies/privacy-policy/">Privacy Policy</a>
+                        </li>
+                        <li><a class="grey-text text-lighten-3" href="#" target="_blank" rel="noopener noreferrer">|</a>
+                                </li>
+                        <li><a class="grey-text text-lighten-3" href="store-policies/terms-of-use/">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-6 text-right">
+                Operated by: <a target="_blank" href="https://www.robertsonmarketing.com/" rel="noopener noreferrer">Robertson Marketing</a> All Rights Reserved © 2021
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <div id="newsletterPopupBack" class="hidden">
+    <div id="newsletterPopupContain">
+        <p class="text-right"><a style="color:#000000;" href="javascript:void(0);" data-rdc="dummy" onclick="jQuery('#newsletterPopupBack').addClass('hidden');"><span class="material-icons">close</span></a></p>
+        <p class="text-center">You have successfully subscribed to the newsletter.</p>
+    </div>
+</div>
+
+    <!--../.CONTENT -->
+
+    <!-- SCRIPTS -->
+
+    <script nonce="$CSPNonce">
+    
+    function signupNewsletter(id_suffix){
+        //var email=jQuery("#newsletterSignup"+id_suffix).val();
+        //if(email==''){alert("please input email!");return ;}
+        jQuery.ajax({
+            url : 'newslettersignup.ajx',
+            //data : "email="+ email +"&vid="+ "20160512512"+"&randomKey="+new Date(),
+            data : "vid="+ "20160512512"+"&randomKey="+new Date(),
+            type : 'get',
+            dataType: "json",
+            success : function(data) {
+                if('success'==data.__Message){
+                    //alert("Subscribe to newsletter successfully!");
+                    jQuery('#newsletterPopupBack').removeClass('hidden');
+                    jQuery(".divNewsletter").hide();
+                }else{
+                    alert(data.__Message);
+                }
+            }
+        });
+    }
+    
+    //Minimum screen size for side menu to be fully expanded
+    var minWidthSideMenuExpanded = 1600;
+
+    // Initialize collapse button
+    jQuery(".button-collapse").sideNav();
+    jQuery("#slide-out").show();
+    // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+    jQuery('.collapsible').collapsible();
+
+    jQuery(document).ready(function() {
+        jQuery('select').material_select();
+        updateNavContainerClasses(minWidthSideMenuExpanded);
+        
+    });
+    
+    var delay;
+
+    jQuery(window).scroll(function() {
+    
+        if (delay) { window.clearTimeout(delay); };
+    
+        delay = window.setTimeout(function () {
+            
+            if (jQuery(".navbar").offset().top > 50) {
+                //jQuery('.navbar-row-1').hide('slow');
+                //jQuery('.navbar-row-2 .right-container').show('slow');
+                //jQuery('.navbar-row-2 .container-navbar-menu-button').show('slow');
+                jQuery('body').addClass('scrolled');
+            } else {
+                //jQuery('.navbar-row-1').show('slow');
+                //jQuery('.navbar-row-2 .right-container').hide('slow');
+                //jQuery('.navbar-row-2 .container-navbar-menu-button').hide('slow');
+                jQuery('body').removeClass('scrolled');
+            }
+            
+        }, 100);
+        
+    });
+    
+
+    jQuery(window).resize(function() {
+        updateNavContainerClasses(minWidthSideMenuExpanded);
+    })
+
+    //updateNavContainerClasses
+    //swap container class for container-fluid when window width is less than "minWidthSideMenuExpanded"
+    function updateNavContainerClasses(minWidthSideMenuExpanded) {
+        if (window.innerWidth > minWidthSideMenuExpanded) {
+
+        } else {
+
+        }
+    }
+    </script>
+    <script type="text/javascript" nonce="$CSPNonce">
+        jQuery.get( "analytics.ajx?vid=20160512512" );
+    </script>
+    <!-- Google Analytics Code -->
+    <script type="text/javascript" nonce="$CSPNonce">
+        if (document.location.href.indexOf('https://shop.googlemerchandisestore.com/') == -1 ) {
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script>
+    
+    
+
+    <script type="text/javascript" src="https://shop.googlemerchandisestore.com/store/20160512512/assets/themes/theme1_en/js/gaSocialTracking.js?v=2309"></script>
+    
+    
+<script nonce="$CSPNonce">
+    
+    function GTMUserType() {
+        
+        var cname = "GTMType_20160512512=";
+        var result = "";
+        
+        var cArray = document.cookie.split(';');
+        
+        for(var x = 0; x < cArray.length; x++) {
+            var cTemp = cArray[x];
+            while (cTemp.charAt(0)==' ') {
+                cTemp = cTemp.substring(1);
+            }
+            if (cTemp.indexOf(cname) == 0) {
+                result = cTemp.substring(cname.length,cTemp.length);
+            }
+        }
+        
+        if(result != "Recorded") {
+        
+                            var GTMType = "Retail";
+                        
+            dataLayer.push [{
+                'userType': GTMType
+            }];
+            
+            var dt = new Date();
+            dt.setMinutes(dt.getMinutes() + 30);
+            
+            var expiry = "expires=" + dt.toUTCString();
+            
+            document.cookie = cname + "Recorded" + "; " + expiry;
+            
+        }
+
+        
+    }
+    
+</script>
+    
+    
+<!-- EMD footer.vm -->            <!-- end ft -->
+        </div><!-- end page-->
+        
+        <script nonce="$CSPNonce">
+            jQuery(document).ready(function () {
+                jQuery('select').material_select();
+            });
+        </script>
+        
+        <script nonce="$CSPNonce">
+            jQuery("a[href='#refine']").click(function() {
+              jQuery("html, body").animate({ scrollTop: 0 }, "slow");
+              return false;
+            });
+        </script>
+
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/assets/plugins/lowpro/lowpro.js?v=2309"></script>
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/assets/plugins/jshashtable/jshashtable.js?v=2309"></script>
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/assets/plugins/domec/domec.js?v=2309"></script>
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/assets/commercelib/commerce/commerce_jQuery.js?v=2309"></script>
+                        <script language="javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/commerce_shop_jQuery.js?v=2309"></script>
+    
+
+    
+        <script type="text/javascript" nonce="$CSPNonce">
+            var $j = jQuery.noConflict();
+        </script>
+    
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/jquery.jcarousellite.min.js?v=2309"></script>
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/jquery-ui.min.js?v=2309"></script>
+    
+        <!-- Page and quicklook handling -->
+            <input type="hidden" id="itemid_handler" value="">
+            <input type="hidden" id="vendorId" value="20160512512">
+            <input type="hidden" id="js-vid" value="20160512512">
+    
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/jquery.ui.tabs.min.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/quicklook.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/handlers.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/quicklook_ajax.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/quicklook_functions.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/quicklook/quicklook_events.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/lineItemAdd/lineItemAdd.js?v=2309"></script>
+            <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/lineItemAdd/lineItemAdd_event.js?v=2309"></script>
+        <!-- end Page and quicklook handling -->
+    
+        <script type="text/javascript" src="https://gcontent.robertsonmarketing.com/store/20160512512/assets/themes/theme1_en/js/jquery.slides.js?v=2309"></script>
+                    
+        <script type="text/javascript" nonce="$CSPNonce">
+            jQuery.noConflict();
+        </script>
+    
+                <script type="text/javascript" nonce="$CSPNonce">
+            /*function createCookie(values){
+                var expdate = new Date();
+                expdate.setFullYear(expdate.getFullYear() + 20);
+                YAHOO.util.Cookie.set("preferences", values, {
+                    expires: expdate,
+                    path:    "/"
+                });
+            }
+
+            function changeItemView(){
+                var listing = jQuery(".listing");
+
+                listing.toggleClass(function(){
+                    if(listing.hasClass('list')){
+                        createCookie('grid');
+                        listing.removeClass('list');
+                        return 'grid';
+                    } else if(listing.hasClass('grid')){
+                        createCookie('list');
+                        listing.removeClass('grid');
+                        return 'list';
+                    }
+                });
+
+                jQuery(".view-switch a").toggleClass("selected")
+            }*/
+
+            function changePageItemsCount(pageItemsCount){
+                //pageItemsCount = jQuery(pageItemsCount).find(':selected').val();
+
+                // TODO: change this to a switch...case
+
+                if(pageItemsCount == '15'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&pageItemsCount=15;jsessionid=8B8F4E8F7C0A1FDE0930967851E20E35';
+                }
+
+                if(pageItemsCount == '20'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&pageItemsCount=20;jsessionid=8B8F4E8F7C0A1FDE0930967851E20E35';
+                }
+
+                if(pageItemsCount == '25'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&pageItemsCount=25;jsessionid=8B8F4E8F7C0A1FDE0930967851E20E35';
+                }
+            }
+
+            function sortRedirect(sortselect){
+                // TODO: change this to a switch...case
+
+                if(sortselect.value == 'stitleASC'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=stitle+asc';
+                }
+
+                if(sortselect.value == 'newestDESC'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=newest+desc';
+                }
+
+                if(sortselect.value == 'priceASC'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=price+asc';
+                }
+
+                if(sortselect.value == 'priceDESC'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=price+desc';
+                }
+
+                if(sortselect.value == 'topsellers'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=topsellers+asc';
+                }
+
+                if(sortselect.value == 'averagereview'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=averagereview+desc';
+                }
+
+                if(sortselect.value == 'orderscount'){
+                    window.location.href = 'https://shop.googlemerchandisestore.com/store.html?cid=48998&vid=20160512512&tpt=theme1_en&sortci=orderscount+desc';
+                }
+            }
+
+            jQuery(document).ready(function($){
+				
+
+                
+
+                jQuery('.side-nav a.title .downArrow').hide();
+                jQuery('input[type=checkbox].quicklook_trigger').removeAttr('disabled');
+            });
+        </script>
+
+        
+<div id="quicklook" class="quicklook" title="Quicklook Box">
+  <div class="yui3-g quicklook-content">
+   <!--start yui3-u-1-3 -->
+   <div class="yui3-u-1-3 quicklook_image_link">
+   </div>
+   <!--end yui3-u-1-3 -->
+   <!--start yui3-u-2-3 -->
+   <div class="yui3-u-2-3">     
+
+     <div id="quicklook_tabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+      <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+       <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Description</a></li>
+             </ul>
+      <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
+       <p>-Item Details-</p>
+      </div>
+      
+     </div>
+     
+     <div id="quicklook_itemprice"></div>
+
+     <div id="quicklook_itemqty" class="f-group vertical">
+       <div id="quicklook_attributes" class="f-row">&nbsp;</div>
+       <div class="f-row">
+        <fieldset class="f-form">        
+          <label id="quicklook_qty_text">Quantity: </label>
+          <input type="text" id="quicklook_qty" onkeypress="return validateKeyPress(event);" />
+        </fieldset>
+       </div>       
+     </div>
+     <div id="quicklook_errors"></div>
+     <div id="quicklook_continue" class="addToCartBtn" onclick="removeAngleBrackets();">
+       <span>Continue</span>
+     </div>
+     <div id="quicklook_addToCart" class="addToCartBtn" onclick="removeAngleBrackets();">
+       <span>Add to Cart</span>
+     </div>     
+     <div id="quicklook_viewItem" class="addToCartBtn" onclick="removeAngleBrackets();">
+       <span>View Product Details</span>
+     </div>     
+
+   </div>
+   <!--end yui3-u-2-3 -->
+ </div>
+ <!--end yui3-g -->
+ <div id="loading_tabs" class="yui3-u-1">Loading item information...</div>
+</div>           <div class="confirmPopupBack hide">
+	<div class="confirmPopup">
+		<div class="confirmPopupTop">
+			<p id="confirmPopupTitle" class="pull-left"></p>
+			<p class="pull-right"></p>
+			<div class="clearfix"></div>
+		</div>
+		<div class="confirmPopupBody">                       
+			
+			<p id="confirmBodyText" style="text-transform: capitalize;font-size: 12px;color: #333;text-align: center;padding-top: 10px;"></p>
+		</div>
+		<div class="confirmPopupFoot">
+			<a id="confirmPopupBasketLink" style="border-radius:0px;" href="" class="btn btn-primary pull-right">Go to Shopping Cart</a>
+			<a href="javascript:void(0);" onclick="closeConfirmPopup();" class="btn btn-primary pull-left" style="border-radius:0px;">Continue Shopping</a>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+    </body>
+</html>
